@@ -16,6 +16,8 @@ ScriptsOnlyBuild:
     - UnityEngine.Networking.NetworkManager
     - UnityEngine.Networking.NetworkManagerHUD
     - UnityEngine.Networking.NetworkStartPosition
+    - UnityEngine.Networking.NetworkTransform
+    - UnityEngine.Networking.NetworkTransformChild
   sceneClasses:
     Assets/Scenes/MainLevel.unity:
     - Class: 1
@@ -40,6 +42,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 104
@@ -48,6 +52,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11362}
+    - Class: 114
+      Script: {instanceID: 11440}
     - Class: 114
       Script: {instanceID: 12064}
     - Class: 114
@@ -58,6 +64,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12404}
     - Class: 114
       Script: {instanceID: 13092}
+    - Class: 114
+      Script: {instanceID: 13146}
     - Class: 114
       Script: {instanceID: 13152}
     - Class: 115
